@@ -8,15 +8,15 @@ public final class LastDigitOfFibonacciNumber {
         );
     }
     
-    private static int getFibonacciLastDigitNaive(int n) {
+    protected static long getFibonacciLastDigitNaive(long n) {
         if (n <= 1)
             return n;
 
-        int previousEnd = 0;
-        int currentEnd  = 1;
+        long previousEnd = 0;
+        long currentEnd  = 1;
 
-        for (int i = 0; i < n - 1; ++i) {
-            int tmp = previousEnd;
+        for (long i = 0; i < n - 1; ++i) {
+            long tmp = previousEnd;
             previousEnd = currentEnd;
             currentEnd = (tmp + currentEnd) % 10;
         }

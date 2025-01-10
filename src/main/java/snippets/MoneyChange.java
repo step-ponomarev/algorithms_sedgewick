@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 // https://stepik.org/lesson/864344/step/1?unit=868429
 public final class MoneyChange {

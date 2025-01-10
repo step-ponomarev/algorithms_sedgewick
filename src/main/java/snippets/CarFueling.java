@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 // https://stepik.org/lesson/864347/step/2?unit=868432
 public final class CarFueling {

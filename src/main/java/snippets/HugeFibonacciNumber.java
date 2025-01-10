@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 public final class HugeFibonacciNumber {
     public static void main(String[] args) {

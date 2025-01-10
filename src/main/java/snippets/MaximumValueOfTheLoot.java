@@ -1,10 +1,4 @@
-package org.example;
-
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.Map;
-import java.util.SortedMap;
-import java.util.TreeMap;
+package snippets;
 
 // https://stepik.org/lesson/864345/step/1?unit=868430
 public final class MaximumValueOfTheLoot {

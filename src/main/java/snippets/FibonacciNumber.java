@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 /**
  * https://stepik.org/lesson/862127/step/1?unit=866164

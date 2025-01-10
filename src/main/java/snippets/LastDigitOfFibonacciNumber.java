@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 // https://stepik.org/lesson/862128/step/1?unit=866165
 public final class LastDigitOfFibonacciNumber {

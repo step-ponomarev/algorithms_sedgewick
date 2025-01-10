@@ -1,4 +1,4 @@
-package org.example;
+package snippets;
 
 // https://stepik.org/lesson/864348/step/2?unit=868433
 public final class DotProduct {
